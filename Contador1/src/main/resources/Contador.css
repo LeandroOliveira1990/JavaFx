@@ -13,3 +13,21 @@
     -fx-font-size: 28px;
 }
 
+.botoes{
+    -fx-background-color: #fff;
+    -fx-text-fill: #48b2ee;
+    -fx-font-size: 28px;
+    -fx-min-width: 60px;
+    -fx-min-heigth: 60px;
+    -fx-background-radius: 30px;
+}
+
+.verde{
+    -fx-text-fill: green;
+
+}
+
+.vermelha{
+    -fx-text-fill: red;
+}
+
